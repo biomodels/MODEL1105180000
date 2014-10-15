@@ -1,3 +1,21 @@
+# MODEL1105180000: MODEL1008240001
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/MODEL1105180000.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/MODEL1105180000.git@20140916`
+
+
+# Model Notes
 
 
 This model is from the article:  
@@ -25,4 +43,5 @@ models, and unique flux solutions are found. The algorithm set out here will
 allow researchers in flux balance analysis to exchange typical solutions to
 their models in a reproducible format. Moreover, having found a single
 solution, statistical analyses such as correlations may be performed.
+
 
